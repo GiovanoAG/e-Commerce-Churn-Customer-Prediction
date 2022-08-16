@@ -55,4 +55,4 @@ Consequences: Assuming e-Commerce X only focuses its investment in retaining ris
 
 Based on the consequences, then as much as possible what we will do is create a model that can reduce the number of customer losses from the company and reduce the cost of wasted investment in retaining customers who are predicted to Churn but in reality customers will not Churn.
 
-For this reasons, we will minimize *False Postive* and *False Negative* to optimize the profit for company X. So the metric we will use is *F1-Score*.
+For these reasons, we will minimize *False Postive* and *False Negative* to optimize the profit for company X. So the metric we will use is *F1-Score*.
